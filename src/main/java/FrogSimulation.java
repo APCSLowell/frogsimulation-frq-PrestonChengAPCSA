@@ -38,9 +38,9 @@ public class FrogSimulation
 			if(simulate() == true){
 				total++;
 			}
-			return total/num;
+			
 		}
-
+		return total/num;
 	}
 	
 	
